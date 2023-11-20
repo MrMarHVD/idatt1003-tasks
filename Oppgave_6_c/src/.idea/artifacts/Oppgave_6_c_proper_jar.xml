@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Oppgave_6_c_proper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Oppgave_6_c_proper_jar</output-path>
+    <root id="archive" name="Oppgave_6_c_proper.jar">
+      <element id="module-output" name="Oppgave_6_c_proper" />
+    </root>
+  </artifact>
+</component>
